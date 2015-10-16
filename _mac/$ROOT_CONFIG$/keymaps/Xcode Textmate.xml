@@ -1,0 +1,18 @@
+<keymap version="1" name="Xcode Textmate" parent="Xcode">
+  <action id="CIDR.Lang.ImportsHierarchy" />
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta slash" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+</keymap>
